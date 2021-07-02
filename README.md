@@ -10,7 +10,7 @@ Application will start at http://localhost:3000.
 
 ## Preview
 
-![img1](/screenshots/Capture.PNG)
+![Capture](/screenshot/Capture.PNG)
 
 
 ### Features 
