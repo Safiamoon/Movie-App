@@ -7,8 +7,15 @@
 3. Run `yarn start`.
 
 Application will start at http://localhost:3000.
+
+## Preview
+
+![img1](/screenshots/Capture.PNG)
+
+
 ### Features 
 
 - API calls
 - Search 
 - Movie Info
+
